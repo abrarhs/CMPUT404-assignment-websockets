@@ -18,6 +18,8 @@ pip install -r requirements.txt
 ```
 
 Contributors / Licensing
+Abrar Hussain
+https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py
 ========================
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
